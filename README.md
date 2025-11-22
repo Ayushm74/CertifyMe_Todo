@@ -45,7 +45,7 @@ See `requirements.txt`.
 - Log out securely via the dashboard or any page
 
 ## Screenshot
-![Dashboard Screenshot](https://ibb.co/Z6v6XkFf)
+![Dashboard Screenshot](https://postimg.cc/vcd2fZRd)
 
 > Add your sample screenshot to `screenshots/dashboard.png` before submission.
 
